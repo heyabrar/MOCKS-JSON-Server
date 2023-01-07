@@ -1,24 +1,20 @@
 {
-    "cars": [
+    "signup": [
         {
-            "id": 1,
-            "brand": "Tata",
-            "year": 2019,
-            "type": "Manual",
-            "kms": 10000,
-            "Description": "Tata Altroz with all original documents",
-            "Price": 500000
+            "id" :1,
+           "user_name" : "abrar",
+           "user_emai" : "abrar@gmail.com",
+           "password" : "abrar@123"
         }
     ],
-    "wishlisted_cars": [
+    "tasks": [
         {
-            "id": 1,
-            "brand": "Tata",
-            "year": 2019,
-            "type": "Manual",
-            "kms": 10000,
-            "Description": "Tata Altroz with all original documents",
-            "Price": 500000
+            "id" : 1,
+            "task1" : "Eat",
+            "task2" : "Sleep",
+            "task3" : "Code",
+            "task4" : "Ride",
+            "task5" : "Read"
         }
     ]
 }
