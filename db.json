@@ -1,16 +1,17 @@
 {
-    "signup": [
+    "dogs": [
         {
-            "id" :1,
-           "user_name" : "abrar",
-           "user_emai" : "abrar@gmail.com",
-           "user_password" : "abrar@123"
+            "id": 1,
+            "name": "Cherry",
+            "age": 2,
+            "place": "Visakhapatnam",
+            "gender": "Male"
         }
     ],
     "tasks": [
         {
-            "id" : 1,
-            "task1" : "Eat"
+            "id": 1,
+            "task1": "Eat"
         }
     ]
 }
