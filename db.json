@@ -1,11 +1,10 @@
 {
-    "dogs": [
+    "products": [
         {
             "id": 1,
-            "name": "Cherry",
-            "age": 2,
-            "place": "Visakhapatnam",
-            "gender": "Male"
+            "title": "Jordons",
+            "price": 2,
+            "brand": "Adidas"
         }
     ],
     "tasks": [
