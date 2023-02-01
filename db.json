@@ -7,6 +7,15 @@
             "source": "Google",
             "thumbnail" : "https://www.freepnglogos.com/uploads/music-logo-black-and-white-png-21.png",
             "date" : "01/02/2023"
+        },
+
+        {
+            "id": 2,
+            "name": "Dummy Music 2",
+            "link": "",
+            "source": "Google",
+            "thumbnail" : "https://www.freepnglogos.com/uploads/music-logo-black-and-white-png-21.png",
+            "date" : "01/02/2023"
         }
     ]
 }
