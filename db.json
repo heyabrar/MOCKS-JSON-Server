@@ -1,16 +1,11 @@
 {
-    "products": [
+    "songs": [
         {
             "id": 1,
-            "title": "Jordons",
-            "price": 2,
-            "brand": "Adidas"
-        }
-    ],
-    "tasks": [
-        {
-            "id": 1,
-            "task1": "Eat"
+            "name": "Jordons",
+            "link": 2,
+            "source": "Adidas",
+            "thumbnail" : "https://www.freepnglogos.com/uploads/music-logo-black-and-white-png-21.png"
         }
     ]
 }
