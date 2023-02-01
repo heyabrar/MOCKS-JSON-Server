@@ -2,10 +2,11 @@
     "songs": [
         {
             "id": 1,
-            "name": "Jordons",
-            "link": 2,
-            "source": "Adidas",
-            "thumbnail" : "https://www.freepnglogos.com/uploads/music-logo-black-and-white-png-21.png"
+            "name": "Dummy Music 1",
+            "link": "http://streaming.tdiradio.com:8000/house.mp3",
+            "source": "Google",
+            "thumbnail" : "https://www.freepnglogos.com/uploads/music-logo-black-and-white-png-21.png",
+            "date" : "01/02/2023"
         }
     ]
 }
