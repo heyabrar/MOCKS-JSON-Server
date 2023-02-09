@@ -8,5 +8,39 @@
             "thumbnail" : "https://png.pngtree.com/background/20210715/original/pngtree-electronic-music-album-picture-image_1301130.jpg",
             "date" : "1/2/2023"
         }
+    ],
+    "products" : [
+        {
+            "id" : 1,
+            "category" : "Mens Clothing",
+            "image" : "https://images.squarespace-cdn.com/content/v1/547a3834e4b053a861c4874e/1624219205079-2MV5PECBTTNFHIIYC8SX/Sustainably+Chic+%7C+Sustainable+Fashion+Blog+%7C+Sustainable+and+Ethical+Clothing+Brands+for+Men.jpg?format=1000w"
+        },
+
+        {
+            "id" : 2,
+            "category" : "Mens Clothing",
+            "image" : "https://images.squarespace-cdn.com/content/v1/547a3834e4b053a861c4874e/1624219205079-2MV5PECBTTNFHIIYC8SX/Sustainably+Chic+%7C+Sustainable+Fashion+Blog+%7C+Sustainable+and+Ethical+Clothing+Brands+for+Men.jpg?format=1000w"
+        },
+
+
+        {
+            "id" : 3,
+            "category" : "Mens Clothing",
+            "image" : "https://images.squarespace-cdn.com/content/v1/547a3834e4b053a861c4874e/1624219205079-2MV5PECBTTNFHIIYC8SX/Sustainably+Chic+%7C+Sustainable+Fashion+Blog+%7C+Sustainable+and+Ethical+Clothing+Brands+for+Men.jpg?format=1000w"
+        },
+
+
+        {
+            "id" : 4,
+            "category" : "Mens Clothing",
+            "image" : "https://images.squarespace-cdn.com/content/v1/547a3834e4b053a861c4874e/1624219205079-2MV5PECBTTNFHIIYC8SX/Sustainably+Chic+%7C+Sustainable+Fashion+Blog+%7C+Sustainable+and+Ethical+Clothing+Brands+for+Men.jpg?format=1000w"
+        },
+
+
+        {
+            "id" : 5,
+            "category" : "Mens Clothing",
+            "image" : "https://images.squarespace-cdn.com/content/v1/547a3834e4b053a861c4874e/1624219205079-2MV5PECBTTNFHIIYC8SX/Sustainably+Chic+%7C+Sustainable+Fashion+Blog+%7C+Sustainable+and+Ethical+Clothing+Brands+for+Men.jpg?format=1000w"
+        }
     ]
 }
