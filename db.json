@@ -42,5 +42,12 @@
             "category" : "Mens Clothing",
             "image" : "https://images.squarespace-cdn.com/content/v1/547a3834e4b053a861c4874e/1624219205079-2MV5PECBTTNFHIIYC8SX/Sustainably+Chic+%7C+Sustainable+Fashion+Blog+%7C+Sustainable+and+Ethical+Clothing+Brands+for+Men.jpg?format=1000w"
         }
+    ],
+    "todo" : [
+        {
+            "id" : 1,
+            "task" : "Learn Typescript",
+            "status" : false
+        }
     ]
 }
